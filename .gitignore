@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datasets related to project
+primary_data.csv
+secondary_data.csv
