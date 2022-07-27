@@ -131,3 +131,4 @@ dmypy.json
 # Datasets related to project
 primary_data.csv
 secondary_data.csv
+ScratchWkbk.ipynb
